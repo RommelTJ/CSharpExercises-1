@@ -1,0 +1,9 @@
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.exe.config
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.Form1.resources
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.Properties.Resources.resources
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+c:\users\john\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.pdb

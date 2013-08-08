@@ -1,0 +1,14 @@
+c:\users\john\documents\visual studio 2012\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\bin\Debug\ContactDB.sdf
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.manifest
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\bin\Debug\Contacts.application
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\obj\Debug\Contacts.exe.manifest
+C:\Users\John\Documents\Visual Studio 2012\Projects\Contacts\Contacts\obj\Debug\Contacts.application

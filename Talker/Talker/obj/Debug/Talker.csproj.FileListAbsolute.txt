@@ -1,0 +1,9 @@
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\bin\Debug\Talker.exe.config
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\bin\Debug\Talker.exe
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\bin\Debug\Talker.pdb
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\obj\Debug\Talker.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\obj\Debug\Talker.Form1.resources
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\obj\Debug\Talker.Properties.Resources.resources
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\obj\Debug\Talker.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\obj\Debug\Talker.exe
+c:\users\john\documents\visual studio 2012\Projects\Talker\Talker\obj\Debug\Talker.pdb
